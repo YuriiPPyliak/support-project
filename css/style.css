@@ -763,7 +763,7 @@ table {
 
 /*? NEWS BLOCK */
 .news-block {
-    padding: 200px;
+    padding: 200px 0;
 }
 
 .news-wrapper>span {
